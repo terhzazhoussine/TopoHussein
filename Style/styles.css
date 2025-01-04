@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+#image {
+    text-align: center;
+    background-color: #d1b120;
+}
+
+#classement {
+    text-align: left;
+}
+
+#text {
+    font-size: large;
+    color: black;
+    justify-content: left;
+}
+#imge {
+    width: 75%;
+    height: 75%;
+}
+
+#title {
+    text-align: center;
+    font-size: larger;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: center;
+    background-color: #d1b120;
+    color: white;
+}

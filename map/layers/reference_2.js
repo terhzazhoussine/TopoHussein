@@ -1,0 +1,1 @@
+var json_reference_2 = {"type":"FeatureCollection","name":"reference_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nom":"gare rabat agdal","x":365240.0,"y":378994.0,"info":"ONCF"},"geometry":{"type":"Point","coordinates":[-6.85756557249562,34.001345030165993]}}]}

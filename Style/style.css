@@ -1,0 +1,59 @@
+div{border: 12px double black;
+padding: 30px;
+margin: 15px;
+background-color: aqua;
+
+}
+p{color: rgb(21, 119, 223);
+text-align: center;
+font-family: calibri;
+font-size: 150%;
+
+}
+h1{
+    color: brown;
+    font-size: "350%";
+    font-family: high tower text;
+    text-align: center;
+    text-shadow: 4px 4px white;
+
+}
+table , td , th{
+    border: 2px solid black
+}
+tr :hover{
+    color: brown;
+}
+td,th{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+tr :hover{
+    background-color: yellow;
+}
+#para{
+    background-color: brown;
+}
+.c{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+#title {
+    text-align: center;
+    font-size: larger;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: center;
+    background-color: #d1b120;
+    color: white;
+
+}
+
+
+
+
